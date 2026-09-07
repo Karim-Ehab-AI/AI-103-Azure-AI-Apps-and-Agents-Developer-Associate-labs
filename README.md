@@ -12,6 +12,11 @@ Key topics and patterns covered across these labs include:
 - Implementing synchronous and asynchronous streaming chat interfaces.
 - Integrating external data sources and tools (such as vector stores and document search over PDF brochures) to ground model responses.
 
+## Official Resources
+
+- Course Material: [AI-103T00 on Microsoft Learn](https://learn.microsoft.com/en-us/training/courses/ai-103t00)
+- Lab Instructions: [Microsoft Learn AI Studio Labs](https://microsoftlearning.github.io/mslearn-ai-studio/)
+
 ## Repository Structure
 
 ```
